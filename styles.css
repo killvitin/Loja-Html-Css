@@ -60,3 +60,24 @@
 .product1:hover img{
     border-radius: 30%;
 }
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 135px;
+    max-width: 100vw;
+    margin-top: 15px;
+    background-color: rgb(122, 128, 126)
+}
+.footer button{
+    height: 30px;
+    width: 100px;
+    border-radius: 10%;
+    background-color: rgb(23, 206, 145);
+}
+
+.footer-button{
+    display: flex;
+    justify-content: center;
+}
